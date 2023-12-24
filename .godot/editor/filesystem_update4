@@ -1,0 +1,12 @@
+res://Scenes/home.tscn
+res://Enemies/slime.gd
+res://Objects/upgrade_menu.gd
+res://Enemies/slime.tscn
+res://Scenes/level_1.tscn
+res://Players/santa.tscn
+res://Objects/anvil.tscn
+res://Objects/overlay.tscn
+res://Objects/coin.tscn
+res://Objects/presents_counter.tscn
+res://Objects/upgrade_menu.tscn
+res://Scenes/test_level.tscn

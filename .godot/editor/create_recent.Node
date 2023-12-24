@@ -1,0 +1,7 @@
+Label
+Button
+VBoxContainer
+MarginContainer
+CollisionShape2D
+Area2D
+Timer
